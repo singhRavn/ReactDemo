@@ -19,4 +19,5 @@ function AnimalShow({type}){
     </div>;
 }
 
+
 export default AnimalShow
