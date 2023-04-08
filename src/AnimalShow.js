@@ -13,6 +13,7 @@ const svgMap = {
     cow, dog, gator, horse
 };
 
+
 function AnimalShow({type}){
     return <div>
         <img alt ="animal" src = {svgMap[type]}/>
